@@ -26,7 +26,7 @@ If anybody wanted to use this project for their Amazon_Inventory_health report m
 2-Clone the Repo
 
 ```bash
-git clone https://github.com/Apace-Solutions/stx_payout.py.git
+git clone https://github.com/Apace-Solutions/Azn_Inventory_health.git
 ```
 3-Install all the required packages
 
