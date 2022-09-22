@@ -47,7 +47,7 @@ def get_profile_path(profile):
 download_path_root = os.path.join(os.environ['USERPROFILE'],r'OneDrive\Reporting\U4')
 
 #Firefox profiles
-firefox_profile = 'ftid2jfe.default-release' #Replace with yours
+firefox_profile = 'Enter your profile name'
 
 
 print("\n\nFetching Inventory MIH Report")
