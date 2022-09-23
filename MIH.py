@@ -18,7 +18,7 @@ import pyautogui, sys
 import psutil
 from webdriver_manager.firefox import GeckoDriverManager
 #enter your URL
-urls = "https://sellercentral.amazon.com/reportcentral/INVENTORY_HEALTH/0"
+urls = ""
 
 #Enter your folder name where you want to save your File
 file_path ='MIH'
